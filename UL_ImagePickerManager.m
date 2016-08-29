@@ -1,9 +1,9 @@
 //
 //  UL_ImagePickerManager.m
-//  ########
+//  HXLOOP.COM
 //
 //  Created by Gaurav Keshre on 3/4/13.
-//  Copyright (c) 2013 Softway Solutions. All rights reserved.
+//  Copyright (c) 2013 Hexagonal Loop. All rights reserved.
 //
 
 #import "UL_ImagePickerManager.h"
