@@ -1,9 +1,9 @@
 //
 //  UL_ImagePickerManager.h
-//  UsLikey
+//  HXLOOP.com
 //
 //  Created by Gaurav Keshre on 3/4/13.
-//  Copyright (c) 2013 Softway Solutions. All rights reserved.
+//  Copyright (c) 2013 Hexagonal Loop. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
